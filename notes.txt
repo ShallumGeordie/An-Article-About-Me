@@ -1,0 +1,7 @@
+command prompt:
+cd means change directory
+cd .. means you want to come out of the present directory
+code . means you want to open VS code
+cls means clear what is im the command prompt
+
+Once a file is created with the .html extension, I can type doc and press tab. This will give me a skeleton of a basic website
